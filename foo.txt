@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 change from local clone
 Jaehun Hong
 Specials
+=======
+Change from local clone
+Jaehun Hong
+>>>>>>> 9fbd93c61a6cffa0b28700e7d563d7d7c7e5d397
